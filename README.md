@@ -4,7 +4,7 @@ It will then read a file containing ones work hours, in the following example fo
 December
 1 1hr
 4 3hr
-# 16 2 hr 
+16 2 hr 
 January
 1 1hr 
 
