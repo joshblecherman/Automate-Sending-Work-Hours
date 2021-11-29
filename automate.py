@@ -6,7 +6,7 @@ context = ssl.create_default_context()
 smtp_server = "smtp.gmail.com"
 port_number = 465
 sender = "joshblecherman@gmail.com"
-PASSWORD = "ariAriari"
+password = "******"
 receiver = "jab1369@nyu.edu"
 
 def createMessage(sender, receiver, month, period):
